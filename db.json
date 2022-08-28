@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "this",
+      "body": "is my blog",
+      "author": "Bhushan",
+      "id": 1
+    },
+    {
+      "title": "ss",
+      "body": "as",
+      "author": "Bhushan",
+      "id": 2
+    }
+  ]
+}
